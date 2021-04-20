@@ -1,0 +1,1070 @@
+<!-- test --><!DOCTYPE html>
+<html lang="ja" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="勤行について  |  SOKAnet公式ブログ">
+  <meta property="og:description" content="教学の基礎や創価学会の諸活動の意義など、創価学会へ理解を深める内容を紹介しています。ここでは勤行について紹介しています">
+  <meta property="og:image" content="https://www.sokanet.jp/creatio/wp-content/uploads/2019/09/ogp-1.png">
+  <meta property="og:url" content="https://www.sokanet.jp/creatio/staff-4/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="創価学会公式サイト | SOKAnet">
+
+	<title>勤行について | SOKAnet公式ブログ</title>
+    <!--[if lt IE 8]><script src="html5shiv.js"></script><![endif]-->
+	
+<!-- All in One SEO Pack 2.12 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="教学の基礎や創価学会の諸活動の意義など、創価学会へ理解を深める内容を紹介しています。ここでは勤行について紹介しています" />
+
+<link rel="canonical" href="/creatio/creatio/creatiohttp://staff-4/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SOKAnet公式ブログ &raquo; フィード" href="/creatio/creatio/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SOKAnet公式ブログ &raquo; コメントフィード" href="/creatio/creatio/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href="/creatio/wp-includes/css/dist/block-library/style.min.css?ver=5.1.5" type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1'></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/swpnav.js?ver=5.1.5"></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/jquery.bxslider.min.js?ver=0.1"></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/jquery.easing.js?ver=5.1.5"></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/core2.js?ver=5.1.5"></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/share-button.js?ver=0.1"></script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/functions.js?ver=0.1"></script>
+<link rel='https://api.w.org/' href="/creatio/wp-json/" />
+<link rel="alternate" type="application/json+oembed" href="/creatio/creatio/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fstaff-4%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/creatio/creatio/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fstaff-4%2F&#038;format=xml" />
+<link href="/creatio/wp-content/themes/creatio/assets/css/base.css" rel="stylesheet" type="text/css" /><link href="/creatio/wp-content/themes/creatio/assets/css/page.css" rel="stylesheet" type="text/css" /><noscript><link href="/creatio/wp-content/themes/creatio/assets/css/noscript.css" rel="stylesheet" type="text/css" /></noscript>  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KKLQM3B');</script>
+  <!-- End Google Tag Manager -->
+</head>
+<body class="post-template-default single single-post postid-10310 single-format-standard tpl_second">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKLQM3B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="contentsWrap"><!-- sp -->
+  <div id="overlayer"></div>
+<div class="header contents-width pc">
+
+    <div class="header-global-menu">
+        <a class="sprite go_all sprite-global_go_all cell-look fl-r" href="/creatio/all/"></a><a class="sprite btns header_btns1 sprite-header_btns_home" href="/creatio/"></a><a class="sprite btns header_btns2 sprite-header_btns_rss" href="/creatio/feed/index.xml"></a><a class="sprite btns header_btns3 sprite-header_btns_fb" target="_blank" href="https://www.facebook.com/sokagakkai.official/"></a>
+    </div>
+    <h1 class="logo sprite sprite-logo">
+        <a class="sprite sprite-logo" href="/creatio/">
+            creatio
+        </a>
+    </h1>
+
+    <ul class="header-menu">
+                    <li class="menu_topics"><a class="header-menu-children  sprite sprite-menu_topics hover_opacity" href="/creatio/category/topics/"></a></li>
+            <li class="menu_column"><a class="header-menu-children  sprite sprite-menu_column hover_opacity" href="/creatio/category/column/"></a></li>
+            <li class="menu_study"><a class="header-menu-children  sprite sprite-menu_study hover_opacity" href="/creatio/category/study/"></a></li>
+            <li class="menu_report"><a class="header-menu-children  sprite sprite-menu_report hover_opacity" href="/creatio/category/report/"></a></li>
+
+    </ul>
+
+
+
+</div>
+<div id="header" class="header contents-width sp">
+    <div id="trigger" class="trigger button_menu sprite_frame sprite_frame-button_menu bxs_bdb cell-look"></div>
+
+    <h1 class="logo sprite_frame sprite_frame-icon_logo">
+        <a class="sprite_frame sprite_frame-icon_logo" href="/creatio/">
+            creatio
+        </a>
+    </h1>
+
+</div>
+
+<div class="body clearfix contents-width">
+
+    <div class="contents clearfix">
+        <div class="inner clearfix">
+            <div class="cell side cell1 pc">
+                
+<div class="side-top inner-cell pc">
+    <div class="logo">
+        <img src="/creatio/wp-content/themes/creatio/assets/images/_frame/logo.png" alt="" width="135" height="117" />
+    </div>
+    <div class="copy">
+        <img src="/creatio/wp-content/themes/creatio/assets/images/_frame/side_copy.png" alt="" width="274" height="99" />
+    </div>
+</div>
+<div class="side-authors inner-cell pc">
+    <div class="author_title">
+        <div class="sprite sprite-side_author">Author 投稿者別</div>
+    </div>
+    <div class="authors">
+                            <a class="hover_opacity" href="/creatio/author/shinanokomachi/">
+                <dl>
+                    <dt class="author_icon">
+                        <span class="sprite sprite-icon_side_shinanokomachi"></span>
+                    </dt>
+                    <dd class="author_detail">
+                        <span class="author_name">信濃小町ちゃん</span>
+                        <span class="author_detail_text">いつもニコニコ元気な女の子。
+ゼラニウムのお花が大好き！</span>
+                    </dd>
+                </dl>
+
+            </a>
+                    <a class="hover_opacity" href="/creatio/author/dagaya/">
+                <dl>
+                    <dt class="author_icon">
+                        <span class="sprite sprite-icon_side_dagaya"></span>
+                    </dt>
+                    <dd class="author_detail">
+                        <span class="author_name">せん・だがやくん</span>
+                        <span class="author_detail_text">信濃小町ちゃんのお隣に住んでいるお友だち。</span>
+                    </dd>
+                </dl>
+
+            </a>
+                    <a class="hover_opacity" href="/creatio/author/denji/">
+                <dl>
+                    <dt class="author_icon">
+                        <span class="sprite sprite-icon_side_denji"></span>
+                    </dt>
+                    <dd class="author_detail">
+                        <span class="author_name">デンジくん</span>
+                        <span class="author_detail_text">昔のことに詳しい。
+（博士的な存在）</span>
+                    </dd>
+                </dl>
+
+            </a>
+                    <a class="hover_opacity" href="/creatio/author/yukirin/">
+                <dl>
+                    <dt class="author_icon">
+                        <span class="sprite sprite-icon_side_yukirin"></span>
+                    </dt>
+                    <dd class="author_detail">
+                        <span class="author_name">ユウキリン</span>
+                        <span class="author_detail_text">勇気が出ない人たちをいつもそっと後押ししてくれる。</span>
+                    </dd>
+                </dl>
+
+            </a>
+                    <a class="hover_opacity" href="/creatio/author/staff/">
+                <dl>
+                    <dt class="author_icon">
+                        <span class="sprite sprite-icon_side_staff"></span>
+                    </dt>
+                    <dd class="author_detail">
+                        <span class="author_name">運営スタッフ</span>
+                        <span class="author_detail_text">運営スタッフからの重要なお知らせなどを発信します。</span>
+                    </dd>
+                </dl>
+
+            </a>
+            </div>
+</div>
+<div class="side-calender inner-cell pc">
+    <div class="calender_title">
+        <div class="sprite sprite-side_monthly">Monthly 投稿者別</div>
+    </div>
+    <div class="calender">
+                
+             <div id="js-calender-body" class="calender-body" data-cnt="5"><div class="year-box year2019"><ul class="clearfix"><li class="month-empty"><span class="inner">2019年<br />1月</span></li><li class="month-empty"><span class="inner">2019年<br />2月</span></li><li class="month-empty"><span class="inner">2019年<br />3月</span></li><li class="month-empty"><span class="inner">2019年<br />4月</span></li><li class="month-empty"><span class="inner">2019年<br />5月</span></li><li class="month-empty"><span class="inner">2019年<br />6月</span></li><li class="month-empty"><span class="inner">2019年<br />7月</span></li><li class="month-empty"><span class="inner">2019年<br />8月</span></li><li class="month-exist"><a href="/creatio/2019/09/" class="inner">2019年<br />9月</a></li><li class="month-empty"><span class="inner">2019年<br />10月</span></li><li class="month-empty"><span class="inner">2019年<br />11月</span></li><li class="month-empty"><span class="inner">2019年<br />12月</span></li></ul></div><div class="year-box year2018"><ul class="clearfix"><li class="month-exist"><a href="/creatio/2018/01/" class="inner">2018年<br />1月</a></li><li class="month-exist"><a href="/creatio/2018/02/" class="inner">2018年<br />2月</a></li><li class="month-exist"><a href="/creatio/2018/03/" class="inner">2018年<br />3月</a></li><li class="month-exist"><a href="/creatio/2018/04/" class="inner">2018年<br />4月</a></li><li class="month-exist"><a href="/creatio/2018/05/" class="inner">2018年<br />5月</a></li><li class="month-exist"><a href="/creatio/2018/06/" class="inner">2018年<br />6月</a></li><li class="month-exist"><a href="/creatio/2018/07/" class="inner">2018年<br />7月</a></li><li class="month-exist"><a href="/creatio/2018/08/" class="inner">2018年<br />8月</a></li><li class="month-exist"><a href="/creatio/2018/09/" class="inner">2018年<br />9月</a></li><li class="month-exist"><a href="/creatio/2018/10/" class="inner">2018年<br />10月</a></li><li class="month-exist"><a href="/creatio/2018/11/" class="inner">2018年<br />11月</a></li><li class="month-exist"><a href="/creatio/2018/12/" class="inner">2018年<br />12月</a></li></ul></div><div class="year-box year2017"><ul class="clearfix"><li class="month-exist"><a href="/creatio/2017/01/" class="inner">2017年<br />1月</a></li><li class="month-exist"><a href="/creatio/2017/02/" class="inner">2017年<br />2月</a></li><li class="month-exist"><a href="/creatio/2017/03/" class="inner">2017年<br />3月</a></li><li class="month-exist"><a href="/creatio/2017/04/" class="inner">2017年<br />4月</a></li><li class="month-exist"><a href="/creatio/2017/05/" class="inner">2017年<br />5月</a></li><li class="month-exist"><a href="/creatio/2017/06/" class="inner">2017年<br />6月</a></li><li class="month-exist"><a href="/creatio/2017/07/" class="inner">2017年<br />7月</a></li><li class="month-exist"><a href="/creatio/2017/08/" class="inner">2017年<br />8月</a></li><li class="month-exist"><a href="/creatio/2017/09/" class="inner">2017年<br />9月</a></li><li class="month-exist"><a href="/creatio/2017/10/" class="inner">2017年<br />10月</a></li><li class="month-exist"><a href="/creatio/2017/11/" class="inner">2017年<br />11月</a></li><li class="month-exist"><a href="/creatio/2017/12/" class="inner">2017年<br />12月</a></li></ul></div><div class="year-box year2016"><ul class="clearfix"><li class="month-exist"><a href="/creatio/2016/01/" class="inner">2016年<br />1月</a></li><li class="month-exist"><a href="/creatio/2016/02/" class="inner">2016年<br />2月</a></li><li class="month-exist"><a href="/creatio/2016/03/" class="inner">2016年<br />3月</a></li><li class="month-exist"><a href="/creatio/2016/04/" class="inner">2016年<br />4月</a></li><li class="month-exist"><a href="/creatio/2016/05/" class="inner">2016年<br />5月</a></li><li class="month-exist"><a href="/creatio/2016/06/" class="inner">2016年<br />6月</a></li><li class="month-exist"><a href="/creatio/2016/07/" class="inner">2016年<br />7月</a></li><li class="month-exist"><a href="/creatio/2016/08/" class="inner">2016年<br />8月</a></li><li class="month-exist"><a href="/creatio/2016/09/" class="inner">2016年<br />9月</a></li><li class="month-exist"><a href="/creatio/2016/10/" class="inner">2016年<br />10月</a></li><li class="month-exist"><a href="/creatio/2016/11/" class="inner">2016年<br />11月</a></li><li class="month-exist"><a href="/creatio/2016/12/" class="inner">2016年<br />12月</a></li></ul></div><div class="year-box year2015"><ul class="clearfix"><li class="month-empty"><span class="inner">2015年<br />1月</span></li><li class="month-empty"><span class="inner">2015年<br />2月</span></li><li class="month-empty"><span class="inner">2015年<br />3月</span></li><li class="month-exist"><a href="/creatio/2015/04/" class="inner">2015年<br />4月</a></li><li class="month-exist"><a href="/creatio/2015/05/" class="inner">2015年<br />5月</a></li><li class="month-exist"><a href="/creatio/2015/06/" class="inner">2015年<br />6月</a></li><li class="month-exist"><a href="/creatio/2015/07/" class="inner">2015年<br />7月</a></li><li class="month-exist"><a href="/creatio/2015/08/" class="inner">2015年<br />8月</a></li><li class="month-exist"><a href="/creatio/2015/09/" class="inner">2015年<br />9月</a></li><li class="month-exist"><a href="/creatio/2015/10/" class="inner">2015年<br />10月</a></li><li class="month-exist"><a href="/creatio/2015/11/" class="inner">2015年<br />11月</a></li><li class="month-exist"><a href="/creatio/2015/12/" class="inner">2015年<br />12月</a></li></ul></div></div>
+            </div>
+    <div class="calender-control clearfix">
+        <div id="calender-prev" class="calender-button calender-prev">前へ</div>
+        <div style="display:none;" id="calender-next" class="calender-button calender-next">次へ</div>
+    </div>
+
+</div>
+
+            </div>
+            <div class="cell cat-study article-cell pc">
+    <div class="breadcrumbs">
+        <!-- Breadcrumb NavXT 6.3.0 -->
+<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="トップへ戻る" href="/creatio/" class="home">トップ</a></span> &gt; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to すべての記事一覧." href="/creatio/all/" class="post-root post post-post">すべての記事一覧</a></span> &gt; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to the 学ぶ category archives." href="/creatio/category/study/" class="taxonomy category">学ぶ</a></span> &gt; <span typeof="v:Breadcrumb"><span property="v:title">勤行について</span></span>    </div>
+    <hr class="hr1"/>
+    <div class="avatar clearfix">
+        <a href="/creatio/author/staff/"><img src="/creatio/wp-content/uploads/2015/03/staff.png" width="80" height="96" alt="運営スタッフ" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo" /></a>
+    </div>
+    <div class="cat">
+        <a href="/creatio/category/study/"><span class="sprite sprite-cat_study">学ぶ</span></a></div>
+
+    <h1>勤行について</h1>
+    <hr class="hr2"/>
+    <div class="wrap">
+        
+
+<div class="social-buttons social-buttons-top">
+    <ul class="social-button">
+        <!-- pocket -->
+        <li><a data-save-url="https://www.sokanet.jp/staff-4/" data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a></li>
+
+        <!-- Google+ -->
+        <li><div data-href="https://www.sokanet.jp/staff-4/" class="g-plusone" data-size="tall" data-annotation="none"></div></li>
+
+        <!-- はてなブックマーク -->
+        <li><a data-url="http://b.hatena.ne.jp/entry/https://www.sokanet.jp/creatio/staff-4/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-noballoon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border:none;" /></a></li>
+
+        <!-- Twitter -->
+        <li class="sc-tw"><a data-url="https://www.sokanet.jp/creatio/staff-4/" href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="none" data-dnt="true">ツイート</a></li>
+
+        <!-- Facebook -->
+        <li class="sc-fb"><div class="fb-like" data-href="https://www.sokanet.jp/staff-4/" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div></li>
+
+    </ul>
+
+
+</div>
+        <div class="time text_gray">
+            2019.09.27        </div>
+
+        <div class="article">
+            
+<h2>勤行とは？</h2>
+
+
+
+<p>創価学会の活動において、「勤行」は、日々の生活のリズムの根幹であり、生命変革の具体的な実践です。<br>朝晩、御本尊に向かい、法華経の二十八の品（＝章）のうち、「方便品」と「寿量品の自我偈」を読み、「南無妙法蓮華経」と題目を唱えることを、「勤行」といいます。<br>「御本尊」は、宇宙と生命を貫く根源の法である南無妙法蓮華経を悟られた御本仏・日蓮大聖人が、御自身の仏の生命をあらわされたものです。その御本尊を信じ、読経し、題目を唱えていくとき、本来、私たちのなかに内在している仏界という最高の生命があらわれてきます。日々、勤行の実践を持続することで、生命が磨かれていくのです。<br>また、勤行には、「正行」と「助行」があります。題目を唱えること（唱題）が「正行」で、方便品と寿量品（自我偈）の読誦は「助行」です。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>「正行」と「助行」の関係について、日寛上人は、米やソバを食べる（正行）時に、塩や酢（す）が調味料として使われて味を助ける（助行）ことに譬（たと）えておられる。<br>「正行」の功徳は広大です。そのうえで、「助行」は「正行」の功力（くりき）を増し、促進（そくしん）する助縁（じょえん）の働きをもっている。<br>「正行」である唱題を根本として、方便品・寿量品の読誦を「助行」とするのが、私たちの勤行の基本的な在り方なのです。（『法華経　方便品・寿量品講義』上（P.20）より）</p>
+
+
+
+<p>−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−</p>
+
+
+
+<p>なかには「意味が分からず経文を読誦して、功徳はあるのだろうか」という疑問を抱く人もいるかもしれない。<br>大聖人は次のように仰せです。「赤ん坊は水と火を区別できず、毒と薬の違いを知らないが、乳を口に含めば命を延ばすことができる。それと同じく、経典に通じていなくとも、一字一句でも法華経を聞いた人は仏にならないわけがない」（御書1046ページ、趣意）と。<br>赤ん坊が、お乳を飲めば知らずしらず大きく育っていくのと同じように、御本尊を信じて妙法を唱えきっていくならば、必ず無量の福徳が輝いていくのです。（『法華経　方便品・寿量品講義』上（P.23）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>方便品と自我偈の意味は？</h2>
+
+
+
+<p>日蓮大聖人は、「寿量品・方便品を読めば、自然と他の法華経の品は読まなくとも、その意味も備わっている」（御書1202ページ趣意）と仰せになっています。これは、法華経の「方便品第二」と「如来寿量品第十六」の二つの品が、法華経の中でも、もっとも大事な法理が説かれていて、そのほかの法華経の品の意義も備わっているという意味です。<br>中でも自我偈は、寿量品の要約であり、法華経二十八品の魂であり、仏法の真髄です。大聖人は自我偈に説かれている永遠の仏の生命を御自身の生命に悟り、「南無妙法蓮華経」として顕されました。<br>したがって、勤行では、「方便品」と「寿量品の自我偈」を読誦します。</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>方便品について</h2>
+
+
+
+<p>私たちが読誦している経文は、方便品の冒頭の一部ですが、一品の中でも最も重要な部分です。<br>読誦している内容の最後には、諸仏の智慧とは「諸法実相」にほかならないことが明かされています。<br>私たちが読誦している範囲はここで終了します。この諸法実相こそ、「一切衆生が皆、仏である」という考えを表した法理であり、万人の成仏への道が、理論上示されています。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>「自分自身が仏である」「わが胸中の太陽を仰げ」――これが法華経の真髄であり、方便品のメッセージです。<br>釈尊は、皆の中に自分と同じ「仏」を見た。自分が悟った道を、だれもが歩めるようにした。“人間は皆、尊い”“人間以上の人間はいない”という厳然たる道理のうえから、釈尊は民衆の輪の中に飛び込み、法を説き続けたのです。<br>釈尊は方便品後半で、仏が出現した目的は、衆生の中にある仏の智慧（仏知見）を「開き」「示し」「悟らせ」「入らしめる」ためであると説いている。<br>そして、“皆、私と同じ仏の境涯になれる。この法華経を説いたことによって、私の昔からの誓願は満足した”と述べています。（『法華経　方便品・寿量品講義』上（P.30）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>寿量品（自我偈）について</h2>
+
+
+
+<p>方便品の後に読むのが、寿量品の自我偈です。<br>まず、寿量品全体には、端的に言えば、「仏の永遠の生命」が説かれています。「寿量」とは“寿命を量る”ことであり、仏の寿命が“無量”であると明かしたのが寿量品なのです。<br>自我偈には、いつ、いかなる時にも、衆生が求める時に、仏は必ず出現し、その国土は仏の楽土となることが、詳しく説かれています。また、最後の一節には、「衆生をして　無上道に入り　速かに仏身を成就することを得せしめん」（以何令衆生　得入無上道　速成就仏身）と、仏が願い続けていることが説かれています。なんとしても、万人の胸中に真実の幸福の境涯を確立させようとの仏の慈悲が、自我偈全体にあらわされています。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>自我偈の一句一句に、「皆を仏に」との仏の慈悲が、込められているのです。<br>文底から言えば、万人が妙法の当体であり、「皆が仏」です。その真理に目覚める功徳を讃嘆したのが自我偈です。<br>自我偈は、長行で明らかにされた「真理への道」「真実の幸福への道」を、すべての人が歩めるように、私たち一人一人に深く呼びかけている経文なのです。（『法華経　方便品・寿量品講義』下（P.144）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>勤行の方式と御祈念文</h2>
+
+
+
+<p><a href="/download/gongyo/gokinenmon_DL_L.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（大）のダウンロード</a></p>
+
+
+
+<p><a href="/download/gongyo/gokinenmon_DL_S.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（小）のダウンロード</a></p>
+
+
+
+<p><a href="/download/item/miraibu/gokinenmon_hiragana.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（ひらがな版）のダウンロード</a></p>
+
+
+
+<p>初めに、御本尊に向かい、鈴を打ち、諸天供養の意義も込めて題目三唱します。<br>御本尊に向かい、最初の題目三唱をするなかに、諸天供養の意義を込めて唱えます。</p>
+
+
+
+<p>方便品を読誦します。（鈴）<br>自我偈を読誦します。（鈴）<br>続いて、題目を唱えます。<br>題目終了のときに鈴を打ち、題目三唱します。</p>
+
+
+
+<p>次に、「御本尊への報恩感謝」「三代会長への報恩感謝」「世界広宣流布の祈念と回向」の御祈念を続けて行います。</p>
+
+
+
+<p>一、御本尊への報恩感謝<br>「法華経の肝心・南無妙法蓮華経の御本尊に南無し、報恩感謝申し上げます。<br>末法の御本仏・日蓮大聖人に南無し、報恩感謝申し上げます。<br>日興上人に南無し、報恩感謝申し上げます。」<br>と祈念の後、題目三唱します。<br>（意味）創価学会の教義の基本は、日蓮大聖人を末法の御本仏と仰ぎ、根本の法である南無妙法蓮華経を具現された三大秘法を信じ、御本尊に自行化他にわたる題目を唱えることにあります。大聖人は、御書において、根本の法である南無妙法蓮華経を度々「法華経の肝心」と御教示されており、それを御本尊として現されました。<br>ゆえに「法華経の肝心・南無妙法蓮華経の御本尊」に南無し、深く報恩感謝申し上げ、御本尊根本の信心を誓います。<br>また、御本尊を現された日蓮大聖人を「末法の御本仏」と仰ぎ報恩感謝申し上げ、大聖人直結の信心を誓います。<br>さらに、日興上人が御本尊根本の大聖人の教えを正しく継承されたことに報恩感謝申し上げます。</p>
+
+
+
+<p>一、三代会長への報恩感謝<br>「創価学会初代会長　牧口常三郎先生、第二代会長　戸田城聖先生、第三代会長　池田大作先生を広宣流布の永遠の師匠と仰ぎ、その死身弘法の御徳に報恩感謝申し上げます。」と祈念の後、題目三唱します。<br>（意味）今日の壮大な世界広宣流布は、牧口常三郎先生、戸田城聖先生、池田大作先生の「三代会長」の死身弘法・不惜身命の実践によって成し遂げられました。この世界広布の潮流を永遠たらしめ、師弟不二の精神を継承する上から、「三代会長」を「広宣流布の永遠の師匠」と仰ぎ、死身弘法の御徳に報恩感謝申し上げるとともに、その指導を実践し、その精神を受け継ぐことを誓います。</p>
+
+
+
+<p>一、世界広宣流布の祈念と回向<br>「世界広宣流布大願成就と、創価学会万代の興隆を御祈念申し上げます。<br>自身の人間革命と宿命転換を祈り、種々の願いが成就しますよう御祈念申し上げます。<br>（種々の祈念はここで行います）<br>先祖代々並びに亡くなられた会員・友人の追善供養のために。<br>（回向の中で鈴を打ちます）」<br>と祈念の後、題目三唱します。<br>次に、「世界の平和と一切衆生の幸福のために。」<br>と祈念の後、鈴を打ち、題目三唱して終わります。<br>（意味）日蓮大聖人の御遺命である世界広宣流布を現実のものとした仏意仏勅の教団に連なっていることを自覚し、各自の誓願として「世界広宣流布大願成就」と「創価学会万代の興隆」を祈念します。<br>また、「自身の人間革命と宿命転換」をはじめ、種々の願いを祈念します。あわせて、「先祖代々並びに亡くなられた会員・友人の追善供養」を行います。<br>最後に、「世界の平和と一切衆生の幸福」を祈り、題目三唱して勤行を終えます。</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p></p>
+
+
+
+<h2>関連リンク</h2>
+
+
+
+<p>生命変革の実践――勤行と弘教<br><a href="/kyougakunyuumon/shinkoutojissenn/2-shingyougaku/02-2/01-2/">https://www.sokanet.jp/kyougakunyuumon/shinkoutojissenn/2-shingyougaku/02-2/01-2/</a></p>
+
+
+
+<p></p>
+        </div>
+
+    </div>
+    
+
+<div class="social-buttons social-buttons-bottom">
+    <ul class="social-button">
+        <li>
+            <a class="sprite sprite-button_fb_share" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sokanet.jp%2Fcreatio%2Fstaff-4%2F" target="_blank">シェアする</a>
+        </li>
+        <!-- Twitter -->
+        <li class="sc-tw"><a data-url="https://www.sokanet.jp/creatio/staff-4/" href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="vertical" data-dnt="true">ツイート</a></li>
+
+        <!-- Facebook -->
+        <li class="sc-fb"><div class="fb-like" data-href="https://www.sokanet.jp/creatio/staff-4/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></li>
+
+        <!-- Google+ -->
+        <li><div data-href="https://www.sokanet.jp/creatio/staff-4/" class="g-plusone" data-size="tall"></div></li>
+
+        <!-- はてなブックマーク -->
+        <li><a data-url="http://b.hatena.ne.jp/entry/https://www.sokanet.jp/creatio/staff-4/" class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border:none;" /></a></li>
+
+        <!-- pocket -->
+        <li><a data-save-url="https://www.sokanet.jp/creatio/staff-4/" data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a></li>
+    </ul>
+
+
+</div>
+</div>
+<div class="pager clearfix pc">
+        <span class="pager-button pager-next"><a href="/creatio/denji-110/" rel="prev">次の記事</a></span>    <a class="go_archive fl-l cell-look" href="/creatio/all/"><span class="then">cum</span><span class="go_archive_text">記事一覧に戻る</span></a>
+</div>
+
+
+<div class="cell cat-study article-cell sp">
+    <div class="author_info clearfix">
+        <a href="/creatio/author/staff/">
+            <span class="author_icon sprite_author sprite_author-icon_author_size_large_staff"></span>
+            <span>運営スタッフの記事</span>
+        </a>
+
+    </div>
+    <div class="wrap">
+        <h1 class="title">勤行について</h1>
+        <div class="meta clearfix">
+            <span class="category_info"><a href="/creatio/category/study/"><span class="sprite_tag sprite_tag-tag_study">学ぶ</span></a></span>
+            <span class="time text_gray">2019.09.27</span>
+        </div>
+
+        <div class="article">
+            
+<h2>勤行とは？</h2>
+
+
+
+<p>創価学会の活動において、「勤行」は、日々の生活のリズムの根幹であり、生命変革の具体的な実践です。<br>朝晩、御本尊に向かい、法華経の二十八の品（＝章）のうち、「方便品」と「寿量品の自我偈」を読み、「南無妙法蓮華経」と題目を唱えることを、「勤行」といいます。<br>「御本尊」は、宇宙と生命を貫く根源の法である南無妙法蓮華経を悟られた御本仏・日蓮大聖人が、御自身の仏の生命をあらわされたものです。その御本尊を信じ、読経し、題目を唱えていくとき、本来、私たちのなかに内在している仏界という最高の生命があらわれてきます。日々、勤行の実践を持続することで、生命が磨かれていくのです。<br>また、勤行には、「正行」と「助行」があります。題目を唱えること（唱題）が「正行」で、方便品と寿量品（自我偈）の読誦は「助行」です。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>「正行」と「助行」の関係について、日寛上人は、米やソバを食べる（正行）時に、塩や酢（す）が調味料として使われて味を助ける（助行）ことに譬（たと）えておられる。<br>「正行」の功徳は広大です。そのうえで、「助行」は「正行」の功力（くりき）を増し、促進（そくしん）する助縁（じょえん）の働きをもっている。<br>「正行」である唱題を根本として、方便品・寿量品の読誦を「助行」とするのが、私たちの勤行の基本的な在り方なのです。（『法華経　方便品・寿量品講義』上（P.20）より）</p>
+
+
+
+<p>−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−</p>
+
+
+
+<p>なかには「意味が分からず経文を読誦して、功徳はあるのだろうか」という疑問を抱く人もいるかもしれない。<br>大聖人は次のように仰せです。「赤ん坊は水と火を区別できず、毒と薬の違いを知らないが、乳を口に含めば命を延ばすことができる。それと同じく、経典に通じていなくとも、一字一句でも法華経を聞いた人は仏にならないわけがない」（御書1046ページ、趣意）と。<br>赤ん坊が、お乳を飲めば知らずしらず大きく育っていくのと同じように、御本尊を信じて妙法を唱えきっていくならば、必ず無量の福徳が輝いていくのです。（『法華経　方便品・寿量品講義』上（P.23）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>方便品と自我偈の意味は？</h2>
+
+
+
+<p>日蓮大聖人は、「寿量品・方便品を読めば、自然と他の法華経の品は読まなくとも、その意味も備わっている」（御書1202ページ趣意）と仰せになっています。これは、法華経の「方便品第二」と「如来寿量品第十六」の二つの品が、法華経の中でも、もっとも大事な法理が説かれていて、そのほかの法華経の品の意義も備わっているという意味です。<br>中でも自我偈は、寿量品の要約であり、法華経二十八品の魂であり、仏法の真髄です。大聖人は自我偈に説かれている永遠の仏の生命を御自身の生命に悟り、「南無妙法蓮華経」として顕されました。<br>したがって、勤行では、「方便品」と「寿量品の自我偈」を読誦します。</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>方便品について</h2>
+
+
+
+<p>私たちが読誦している経文は、方便品の冒頭の一部ですが、一品の中でも最も重要な部分です。<br>読誦している内容の最後には、諸仏の智慧とは「諸法実相」にほかならないことが明かされています。<br>私たちが読誦している範囲はここで終了します。この諸法実相こそ、「一切衆生が皆、仏である」という考えを表した法理であり、万人の成仏への道が、理論上示されています。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>「自分自身が仏である」「わが胸中の太陽を仰げ」――これが法華経の真髄であり、方便品のメッセージです。<br>釈尊は、皆の中に自分と同じ「仏」を見た。自分が悟った道を、だれもが歩めるようにした。“人間は皆、尊い”“人間以上の人間はいない”という厳然たる道理のうえから、釈尊は民衆の輪の中に飛び込み、法を説き続けたのです。<br>釈尊は方便品後半で、仏が出現した目的は、衆生の中にある仏の智慧（仏知見）を「開き」「示し」「悟らせ」「入らしめる」ためであると説いている。<br>そして、“皆、私と同じ仏の境涯になれる。この法華経を説いたことによって、私の昔からの誓願は満足した”と述べています。（『法華経　方便品・寿量品講義』上（P.30）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>寿量品（自我偈）について</h2>
+
+
+
+<p>方便品の後に読むのが、寿量品の自我偈です。<br>まず、寿量品全体には、端的に言えば、「仏の永遠の生命」が説かれています。「寿量」とは“寿命を量る”ことであり、仏の寿命が“無量”であると明かしたのが寿量品なのです。<br>自我偈には、いつ、いかなる時にも、衆生が求める時に、仏は必ず出現し、その国土は仏の楽土となることが、詳しく説かれています。また、最後の一節には、「衆生をして　無上道に入り　速かに仏身を成就することを得せしめん」（以何令衆生　得入無上道　速成就仏身）と、仏が願い続けていることが説かれています。なんとしても、万人の胸中に真実の幸福の境涯を確立させようとの仏の慈悲が、自我偈全体にあらわされています。</p>
+
+
+
+<h3>池田先生の講義から</h3>
+
+
+
+<p>自我偈の一句一句に、「皆を仏に」との仏の慈悲が、込められているのです。<br>文底から言えば、万人が妙法の当体であり、「皆が仏」です。その真理に目覚める功徳を讃嘆したのが自我偈です。<br>自我偈は、長行で明らかにされた「真理への道」「真実の幸福への道」を、すべての人が歩めるように、私たち一人一人に深く呼びかけている経文なのです。（『法華経　方便品・寿量品講義』下（P.144）より）</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>　</p>
+
+
+
+<h2>勤行の方式と御祈念文</h2>
+
+
+
+<p><a href="/download/gongyo/gokinenmon_DL_L.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（大）のダウンロード</a></p>
+
+
+
+<p><a href="/download/gongyo/gokinenmon_DL_S.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（小）のダウンロード</a></p>
+
+
+
+<p><a href="/download/item/miraibu/gokinenmon_hiragana.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (新しいタブで開く)">創価学会「勤行要典」による勤行と御祈念文（ひらがな版）のダウンロード</a></p>
+
+
+
+<p>初めに、御本尊に向かい、鈴を打ち、諸天供養の意義も込めて題目三唱します。<br>御本尊に向かい、最初の題目三唱をするなかに、諸天供養の意義を込めて唱えます。</p>
+
+
+
+<p>方便品を読誦します。（鈴）<br>自我偈を読誦します。（鈴）<br>続いて、題目を唱えます。<br>題目終了のときに鈴を打ち、題目三唱します。</p>
+
+
+
+<p>次に、「御本尊への報恩感謝」「三代会長への報恩感謝」「世界広宣流布の祈念と回向」の御祈念を続けて行います。</p>
+
+
+
+<p>一、御本尊への報恩感謝<br>「法華経の肝心・南無妙法蓮華経の御本尊に南無し、報恩感謝申し上げます。<br>末法の御本仏・日蓮大聖人に南無し、報恩感謝申し上げます。<br>日興上人に南無し、報恩感謝申し上げます。」<br>と祈念の後、題目三唱します。<br>（意味）創価学会の教義の基本は、日蓮大聖人を末法の御本仏と仰ぎ、根本の法である南無妙法蓮華経を具現された三大秘法を信じ、御本尊に自行化他にわたる題目を唱えることにあります。大聖人は、御書において、根本の法である南無妙法蓮華経を度々「法華経の肝心」と御教示されており、それを御本尊として現されました。<br>ゆえに「法華経の肝心・南無妙法蓮華経の御本尊」に南無し、深く報恩感謝申し上げ、御本尊根本の信心を誓います。<br>また、御本尊を現された日蓮大聖人を「末法の御本仏」と仰ぎ報恩感謝申し上げ、大聖人直結の信心を誓います。<br>さらに、日興上人が御本尊根本の大聖人の教えを正しく継承されたことに報恩感謝申し上げます。</p>
+
+
+
+<p>一、三代会長への報恩感謝<br>「創価学会初代会長　牧口常三郎先生、第二代会長　戸田城聖先生、第三代会長　池田大作先生を広宣流布の永遠の師匠と仰ぎ、その死身弘法の御徳に報恩感謝申し上げます。」と祈念の後、題目三唱します。<br>（意味）今日の壮大な世界広宣流布は、牧口常三郎先生、戸田城聖先生、池田大作先生の「三代会長」の死身弘法・不惜身命の実践によって成し遂げられました。この世界広布の潮流を永遠たらしめ、師弟不二の精神を継承する上から、「三代会長」を「広宣流布の永遠の師匠」と仰ぎ、死身弘法の御徳に報恩感謝申し上げるとともに、その指導を実践し、その精神を受け継ぐことを誓います。</p>
+
+
+
+<p>一、世界広宣流布の祈念と回向<br>「世界広宣流布大願成就と、創価学会万代の興隆を御祈念申し上げます。<br>自身の人間革命と宿命転換を祈り、種々の願いが成就しますよう御祈念申し上げます。<br>（種々の祈念はここで行います）<br>先祖代々並びに亡くなられた会員・友人の追善供養のために。<br>（回向の中で鈴を打ちます）」<br>と祈念の後、題目三唱します。<br>次に、「世界の平和と一切衆生の幸福のために。」<br>と祈念の後、鈴を打ち、題目三唱して終わります。<br>（意味）日蓮大聖人の御遺命である世界広宣流布を現実のものとした仏意仏勅の教団に連なっていることを自覚し、各自の誓願として「世界広宣流布大願成就」と「創価学会万代の興隆」を祈念します。<br>また、「自身の人間革命と宿命転換」をはじめ、種々の願いを祈念します。あわせて、「先祖代々並びに亡くなられた会員・友人の追善供養」を行います。<br>最後に、「世界の平和と一切衆生の幸福」を祈り、題目三唱して勤行を終えます。</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p></p>
+
+
+
+<h2>関連リンク</h2>
+
+
+
+<p>生命変革の実践――勤行と弘教<br><a href="/kyougakunyuumon/shinkoutojissenn/2-shingyougaku/02-2/01-2/">https://www.sokanet.jp/kyougakunyuumon/shinkoutojissenn/2-shingyougaku/02-2/01-2/</a></p>
+
+
+
+<p></p>
+        </div>
+        
+
+<div class="social-buttons clearfix">
+    <ul class="social-button">
+        <!-- Facebook -->
+        <li class="sc-fb"><div class="fb-like" data-href="https://www.sokanet.jp/creatio/staff-4/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div></li>
+        <!-- Twitter -->
+        <li class="sc-tw"><a data-url="https://www.sokanet.jp/creatio/staff-4/" href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="horizontal" data-dnt="true">ツイート</a></li>
+        <!-- mixi -->
+        <li class="sc-mi">
+            <div data-plugins-type="mixi-favorite" data-service-key="a759d3c6627a019dfe297f44404bcd42e38d0020" data-size="medium" data-href="" data-show-faces="false" data-show-count="true" data-show-comment="true" data-width=""></div><script type="text/javascript">(function(d) {var s = d.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//static.mixi.jp/js/plugins.js#lang=ja';d.getElementsByTagName('head')[0].appendChild(s);})(document);</script>        </li>
+        <!-- pocket -->
+        <li class="sc-po"><a data-save-url="https://www.sokanet.jp/creatio/staff-4/" data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a></li>
+
+        <!-- Google+ -->
+        <li class="sc-go"><div data-href="https://www.sokanet.jp/creatio/staff-4/" class="g-plusone" data-size="medium" ></div></li>
+
+        <!-- line -->
+        <li class="sc-li">
+            <span>
+                <script type="text/javascript" src="//media.line.me/js/line-button.js?v=20140411" ></script>
+                <script type="text/javascript">
+                    new media_line_me.LineButton({"pc":false,"lang":"ja","type":"a","text":"https://www.sokanet.jp/creatio/staff-4/","withUrl":true});
+                </script>
+            </span>
+        </li>
+
+
+    </ul>
+
+
+</div>
+
+    </div>
+    <div class="load_cell">
+        <a class="load_cell_button load_btn" href="/creatio/all/">
+            <span class="icon sprite_frame sprite_frame-icon_kakko_black"></span>
+            <span class="text">記事一覧へ戻る</span>
+        </a>
+    </div>
+
+</div>
+        </div>
+
+
+    </div>
+
+
+</div>
+<div class="pc">
+  <hr class="footer-icon sprite sprite-footer_icon"/>
+  <hr class="footer-line"/>
+  <div class="footer contents-width clearfix">
+      <div class="row1">
+          <a class="footer_logo sprite sprite-logo" href="/creatio/">
+              creatio クレアティオ
+          </a>
+          <a class="hover_opacity" href="/" target="_blank">
+              <img src="/creatio/wp-content/themes/creatio/assets/images/_frame/logo_soka_net.png" alt=""/>
+          </a>
+      </div>
+      <div class="row2">
+          <ul class="authors clearfix">
+                                                                    <li>
+                          <div class="ftable">
+                              <a class="" href="/creatio/author/shinanokomachi/">
+                                  <div class="ftable-cell shinanokomachi"><span class="sprite sprite-icon_shinanokomachi"></span></div>
+                                  <div class="ftable-cell2"><span>信濃小町ちゃん</span></div>
+                              </a>
+                          </div>
+                          <div class="para">
+                              いつもニコニコ元気な女の子。
+ゼラニウムのお花が大好き！                          </div>
+                      </li>
+
+                                                                        <li>
+                          <div class="ftable">
+                              <a class="" href="/creatio/author/dagaya/">
+                                  <div class="ftable-cell dagaya"><span class="sprite sprite-icon_dagaya"></span></div>
+                                  <div class="ftable-cell2"><span>せん・だがやくん</span></div>
+                              </a>
+                          </div>
+                          <div class="para">
+                              信濃小町ちゃんのお隣に住んでいるお友だち。                          </div>
+                      </li>
+
+                                                                        <li>
+                          <div class="ftable">
+                              <a class="" href="/creatio/author/denji/">
+                                  <div class="ftable-cell denji"><span class="sprite sprite-icon_denji"></span></div>
+                                  <div class="ftable-cell2"><span>デンジくん</span></div>
+                              </a>
+                          </div>
+                          <div class="para">
+                              昔のことに詳しい。
+（博士的な存在）                          </div>
+                      </li>
+
+                                                                        <li>
+                          <div class="ftable">
+                              <a class="" href="/creatio/author/yukirin/">
+                                  <div class="ftable-cell yukirin"><span class="sprite sprite-icon_yukirin"></span></div>
+                                  <div class="ftable-cell2"><span>ユウキリン</span></div>
+                              </a>
+                          </div>
+                          <div class="para">
+                              勇気が出ない人たちをいつもそっと後押ししてくれる。                          </div>
+                      </li>
+
+                                                                
+          </ul>
+      </div>
+      <div class="wrap clearfix">
+          <ul class="footer_menu">
+              <li><a href="/creatio/">トップ</a></li>
+              <li><a href="/creatio/all/">ブログ記事一覧</a></li>
+              <li><a href="/terms/index.html">ご利用にあたって</a></li>
+          </ul>
+          <div class="copyrights text_gray pc">
+              © SokaGakkai（JAPAN）All Rights Reserved.<!-- 20200106 -->
+          </div>
+      </div>
+  </div>
+</div>
+<div class="sp">
+  <div class="footer contents-width clearfix">
+      <div class="go_article_by_category go_article_box">
+          <h2>カテゴリー別に記事を見る</h2>
+
+                                                    <ul>
+                            <li class="topics">
+                  <a href="/creatio/category/topics/">
+                      <span class="icon">
+                          <span class="sprite_category sprite_category-icon_category_size_mid_topics"></span>
+                      </span>
+
+                      <span class="text">
+                                                        トピックス                                                </span>
+                  </a>
+              </li>
+                                                                  <li class="column">
+                  <a href="/creatio/category/column/">
+                      <span class="icon">
+                          <span class="sprite_category sprite_category-icon_category_size_mid_column"></span>
+                      </span>
+
+                      <span class="text">
+                                                        コラム                                                </span>
+                  </a>
+              </li>
+                                </ul>
+                                                                      <ul>
+                            <li class="study">
+                  <a href="/creatio/category/study/">
+                      <span class="icon">
+                          <span class="sprite_category sprite_category-icon_category_size_mid_study"></span>
+                      </span>
+
+                      <span class="text">
+                                                        学ぶ                                                </span>
+                  </a>
+              </li>
+                                                                  <li class="report">
+                  <a href="/creatio/category/report/">
+                      <span class="icon">
+                          <span class="sprite_category sprite_category-icon_category_size_mid_report"></span>
+                      </span>
+
+                      <span class="text">
+                                                        レポート                                                </span>
+                  </a>
+              </li>
+                                </ul>
+                                                                      <ul>
+                            <li class="staff">
+                  <a href="/creatio/category/staff/">
+                      <span class="icon">
+                          <span class="sprite_category sprite_category-icon_category_size_mid_staff"></span>
+                      </span>
+
+                      <span class="text">
+                                                        運営スタッフ
+                                                </span>
+                  </a>
+              </li>
+                                                    <li class="all>">
+                  <a href="/creatio/all/">
+                      <span class="icon">
+                           <span class="sprite_category sprite_category-icon_category_size_mid_all"></span>
+                      </span>
+                      <span class="text">すべての記事</span>
+                  </a>
+              </li>
+              </ul>
+
+
+      </div>
+      <div class="go_article_by_author go_article_box">
+          <h2>キャラクター別に記事を見る</h2>
+                                                                          <ul>
+                  
+                  <li class="shinanokomachi">
+                      <a href="/creatio/author/shinanokomachi/">
+                          <span class="icon">
+                             <span class="sprite_author sprite_author-icon_author_size_mid_shinanokomachi"></span>
+                          </span>
+                          <span class="text shinanokomachi">信濃小町ちゃん</span>
+                      </a>
+                  </li>
+
+                                                  
+                                          
+                  <li class="dagaya">
+                      <a href="/creatio/author/dagaya/">
+                          <span class="icon">
+                             <span class="sprite_author sprite_author-icon_author_size_mid_dagaya"></span>
+                          </span>
+                          <span class="text dagaya">せん・だがやくん</span>
+                      </a>
+                  </li>
+
+                                        </ul>
+                                                  
+                                                                <ul>
+                  
+                  <li class="denji">
+                      <a href="/creatio/author/denji/">
+                          <span class="icon">
+                             <span class="sprite_author sprite_author-icon_author_size_mid_denji"></span>
+                          </span>
+                          <span class="text denji">デンジくん</span>
+                      </a>
+                  </li>
+
+                                                  
+                                          
+                  <li class="yukirin">
+                      <a href="/creatio/author/yukirin/">
+                          <span class="icon">
+                             <span class="sprite_author sprite_author-icon_author_size_mid_yukirin"></span>
+                          </span>
+                          <span class="text yukirin">ユウキリン</span>
+                      </a>
+                  </li>
+
+                                        </ul>
+                                                  
+                        
+                </div>
+
+  </div>
+      <div class="copyright">
+      &copy; SokaGakkai (Japan)
+  </div>
+</div>
+
+
+</div><!-- end #contentsWrap (sp) -->
+<nav role="navigation" id="nav" class="side sp">
+    <div class="side-header menubtn">
+        メニューを閉じる <span class="sprite_frame sprite_frame-icon_button_close"></span>
+    </div>
+    <div class="heading heading1">カテゴリー別</div>
+    <ul class="side-category link_list">
+                            <li class="topics">
+                <a href="/creatio/category/topics/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_topics cat-topics"></span>
+                    </span>
+                    <span class="text text_topics">
+                                            トピックス                                        </span>
+                </a>
+            </li>
+                    <li class="column">
+                <a href="/creatio/category/column/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_column cat-column"></span>
+                    </span>
+                    <span class="text text_column">
+                                            コラム                                        </span>
+                </a>
+            </li>
+                    <li class="study">
+                <a href="/creatio/category/study/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_study cat-study"></span>
+                    </span>
+                    <span class="text text_study">
+                                            学ぶ                                        </span>
+                </a>
+            </li>
+                    <li class="report">
+                <a href="/creatio/category/report/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_report cat-report"></span>
+                    </span>
+                    <span class="text text_report">
+                                            レポート                                        </span>
+                </a>
+            </li>
+                    <li class="staff">
+                <a href="/creatio/category/staff/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_staff cat-staff"></span>
+                    </span>
+                    <span class="text text_staff">
+                                            運営スタッフから
+                                        </span>
+                </a>
+            </li>
+                <li class="all">
+            <a href="/creatio/all/">
+                    <span class="list_icon">
+                        <span class="sprite_category sprite_category-icon_category_size_large_all cat-all"></span>
+                    </span>
+                    <span class="text">
+                        すべての記事一覧
+                    </span>
+            </a>
+        </li>
+
+    </ul>
+    <div class="heading heading2">カテゴリー別</div>
+    <ul class="side-authors link_list">
+                                            <li class="shinanokomachi">
+                    <a href="/creatio/author/shinanokomachi/">
+                        <span class="list_icon">
+                        <span class="sprite_author sprite_author-icon_author_size_mid_shinanokomachi"></span>
+                        </span>
+                        <span class="text">信濃小町ちゃん</span>
+                    </a>
+                </li>
+
+                                                <li class="dagaya">
+                    <a href="/creatio/author/dagaya/">
+                        <span class="list_icon">
+                        <span class="sprite_author sprite_author-icon_author_size_mid_dagaya"></span>
+                        </span>
+                        <span class="text">せん・だがやくん</span>
+                    </a>
+                </li>
+
+                                                <li class="denji">
+                    <a href="/creatio/author/denji/">
+                        <span class="list_icon">
+                        <span class="sprite_author sprite_author-icon_author_size_mid_denji"></span>
+                        </span>
+                        <span class="text">デンジくん</span>
+                    </a>
+                </li>
+
+                                                <li class="yukirin">
+                    <a href="/creatio/author/yukirin/">
+                        <span class="list_icon">
+                        <span class="sprite_author sprite_author-icon_author_size_mid_yukirin"></span>
+                        </span>
+                        <span class="text">ユウキリン</span>
+                    </a>
+                </li>
+
+                                            </ul>
+    <div class="heading heading3">過去の記事を読む</div>
+    <div id="js-archive-dropdown" class="archive-dropdown">
+        <select name="archive-dropdown" id="archive-dropdown-select" title="過去の記事を読む">
+            <option value="">月を選択</option>
+            	<option value="/creatio/2019/09/"> 2019年9月 </option>
+	<option value="/creatio/2018/12/"> 2018年12月 </option>
+	<option value="/creatio/2018/11/"> 2018年11月 </option>
+	<option value="/creatio/2018/10/"> 2018年10月 </option>
+	<option value="/creatio/2018/09/"> 2018年9月 </option>
+	<option value="/creatio/2018/08/"> 2018年8月 </option>
+	<option value="/creatio/2018/07/"> 2018年7月 </option>
+	<option value="/creatio/2018/06/"> 2018年6月 </option>
+	<option value="/creatio/2018/05/"> 2018年5月 </option>
+	<option value="/creatio/2018/04/"> 2018年4月 </option>
+	<option value="/creatio/2018/03/"> 2018年3月 </option>
+	<option value="/creatio/2018/02/"> 2018年2月 </option>
+	<option value="/creatio/2018/01/"> 2018年1月 </option>
+	<option value="/creatio/2017/12/"> 2017年12月 </option>
+	<option value="/creatio/2017/11/"> 2017年11月 </option>
+	<option value="/creatio/2017/10/"> 2017年10月 </option>
+	<option value="/creatio/2017/09/"> 2017年9月 </option>
+	<option value="/creatio/2017/08/"> 2017年8月 </option>
+	<option value="/creatio/2017/07/"> 2017年7月 </option>
+	<option value="/creatio/2017/06/"> 2017年6月 </option>
+	<option value="/creatio/2017/05/"> 2017年5月 </option>
+	<option value="/creatio/2017/04/"> 2017年4月 </option>
+	<option value="/creatio/2017/03/"> 2017年3月 </option>
+	<option value="/creatio/2017/02/"> 2017年2月 </option>
+	<option value="/creatio/2017/01/"> 2017年1月 </option>
+	<option value="/creatio/2016/12/"> 2016年12月 </option>
+	<option value="/creatio/2016/11/"> 2016年11月 </option>
+	<option value="/creatio/2016/10/"> 2016年10月 </option>
+	<option value="/creatio/2016/09/"> 2016年9月 </option>
+	<option value="/creatio/2016/08/"> 2016年8月 </option>
+	<option value="/creatio/2016/07/"> 2016年7月 </option>
+	<option value="/creatio/2016/06/"> 2016年6月 </option>
+	<option value="/creatio/2016/05/"> 2016年5月 </option>
+	<option value="/creatio/2016/04/"> 2016年4月 </option>
+	<option value="/creatio/2016/03/"> 2016年3月 </option>
+	<option value="/creatio/2016/02/"> 2016年2月 </option>
+	<option value="/creatio/2016/01/"> 2016年1月 </option>
+	<option value="/creatio/2015/12/"> 2015年12月 </option>
+	<option value="/creatio/2015/11/"> 2015年11月 </option>
+	<option value="/creatio/2015/10/"> 2015年10月 </option>
+	<option value="/creatio/2015/09/"> 2015年9月 </option>
+	<option value="/creatio/2015/08/"> 2015年8月 </option>
+	<option value="/creatio/2015/07/"> 2015年7月 </option>
+	<option value="/creatio/2015/06/"> 2015年6月 </option>
+	<option value="/creatio/2015/05/"> 2015年5月 </option>
+	<option value="/creatio/2015/04/"> 2015年4月 </option>
+        </select>
+        <input type="button" id="archive-dropdown-submit" value="移動" />
+
+    </div>
+</nav>
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var before_fetch_data = {"endpoint":"\/wp-admin\/admin-ajax.php","action":"ajax_fetch_log_callback","secure":"47a60060ff","page_type":"single","paged":"1","property":[],"posts_per_page":"10"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/fetch_log.js?ver=5.1.5"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var before_fetch_data_sp = {"endpoint":"\/wp-admin\/admin-ajax.php","action":"ajax_fetch_log_callback_sp","secure":"47a60060ff","page_type":"single","paged":"1","property":[],"posts_per_page":"10"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="/creatio/wp-content/themes/creatio/assets/js/fetch_log_sp.js?ver=5.1.5"></script>
+<script type='text/javascript' src="/creatio/wp-includes/js/wp-embed.min.js?ver=5.1.5"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "item": {"@id":"https://www.sokanet.jp/index.html","name":"SOKAnet"} },
+    { "@type": "ListItem", "position": 2, "item": {"@id":"https://www.sokanet.jp/creatio/","name":"クレアティオ"} }
+          ,{ "@type": "ListItem", "position": 3, "item": {"@id":"https://www.sokanet.jp/creatio/category/study/","name":"学ぶ"} },
+    { "@type": "ListItem", "position": 4, "item": {"@id":"https://www.sokanet.jp/creatio/staff-4/","name":"勤行について"} }
+    ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "headline": "勤行について",
+  "image": {
+    "@type": "ImageObject",
+    "url": "/wp-content/uploads/2019/09/ogp-1.png"
+  },
+  "datePublished": "2019-09-27",
+  "author": {
+    "@type": "Organization",
+    "name": "創価学会"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "創価学会",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.sokanet.jp/common/img/head_logo.gif"
+    }
+  }
+}
+</script>
+</body>
+</html>
